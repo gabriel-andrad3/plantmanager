@@ -67,15 +67,15 @@ const styles = StyleSheet.create ({
         flex: 1,
         alignItems: 'center',
         justifyContent: 'space-around',
-        paddingHorizontal: 20
+        paddingHorizontal: 20        
     },
     title: {
-        fontSize: 38,
-        fontWeight: 'bold',
+        fontSize: 28,
         textAlign: 'center',
         color: colors.heading,
-        marginTop: 40,
-        fontFamily: fonts.heading
+        marginTop: 38,
+        fontFamily: fonts.heading,
+        lineHeight: 34
     },
     subtitle: {
         fontSize: 18,
